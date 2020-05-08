@@ -1,0 +1,23 @@
+{
+  "name": "art-kata-and-tdd",
+  "version": "1.0.0",
+  "description": "Art, Kata &amp; Tdd - An experiment trying to mix art and TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tdd": "jest -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarti-theinit/art-kata-and-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarti-theinit/art-kata-and-tdd/issues"
+  },
+  "homepage": "https://github.com/jmarti-theinit/art-kata-and-tdd#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
