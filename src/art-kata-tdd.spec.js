@@ -10,8 +10,13 @@ describe('Art, Kata and Tdd', () => {
     expect(typeof result).toEqual('function');
   });
 
-  it('the returned funtions should return a number', () => {
+  it('the returned functions should return a number', () => {
     const result = artKataTdd();
     expect(typeof result()).toEqual('number');
+  });
+
+  it('is a function that returns a function that return an odd number', () => {
+    const result = artKataTdd();
+    expect(result() % 2).toEqual(1);
   });
 });
