@@ -22,8 +22,8 @@ Let's make some art!
 - Implement the test. Get it Green!
 - If you want to refactor, do it now.
 - Write a new test, BASED ON A BABY STEP, with whatever you want this to do, and leave it Red!
-- Ask somebody else to follow the chain, with a link to this repository: https://github.com/jmarti-theinit/art-kata-and-tdd
-- Add this user as a collaborator: https://github.com/jmarti-theinit/art-kata-and-tdd/settings/access
+- Ask somebody else to follow the chain, with a link to this repository: https://github.com/jmarti-collab/art-kata-and-tdd
+- Add this user as a collaborator (with admin rights): https://github.com/jmarti-collab/art-kata-and-tdd/settings/access
 
 
 # Spanish
@@ -47,6 +47,6 @@ Sin más comunicación que esa, ¿en qué evolucionará este código?
 - Implementa el test. ¡Déjalo en Verde!
 - Si quieres refactorizar, hazlo ahora. 
 - Escribe un nuevo test, basado en un BABY STEP (un paso muy pequeño), con la intención de que evolucione a la idea que tú creas que debe ir. Deja el test en rojo. 
-- Pide a alguien más que siga la cadena, con un enlace a este repositorio: https://github.com/jmarti-theinit/art-kata-and-tdd
-- Dale acceso vía github en la lista de colaboradores: https://github.com/jmarti-theinit/art-kata-and-tdd/settings/access
+- Pide a alguien más que siga la cadena, con un enlace a este repositorio: https://github.com/jmarti-collab/art-kata-and-tdd
+- Dale acceso vía github en la lista de colaboradores (con derechos admin): https://github.com/jmarti-collab/art-kata-and-tdd/settings/access
 
